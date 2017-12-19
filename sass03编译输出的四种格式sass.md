@@ -26,7 +26,7 @@
 
 > compressed 压缩
 1. sass --watch sa.scss:sa.css --style compressed
-![](./img/1003.png)
+![](./img/1004.png)
 
 
 
